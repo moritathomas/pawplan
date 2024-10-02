@@ -1,0 +1,19 @@
+/* src/components/Post.css */
+.post {
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 0;
+}
+
+.post-date {
+    color: #888;
+    font-size: 0.9rem;
+}
+
+.post h2 {
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+}
+
+.post p {
+    color: #444;
+}
